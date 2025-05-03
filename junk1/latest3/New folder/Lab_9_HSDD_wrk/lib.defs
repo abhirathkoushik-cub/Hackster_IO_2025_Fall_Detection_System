@@ -1,4 +1,0 @@
-INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
-INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
-DEFINE Lab_9_HSDD_lib Lab_9_HSDD_lib
-ASSIGN Lab_9_HSDD_lib libMode shared
