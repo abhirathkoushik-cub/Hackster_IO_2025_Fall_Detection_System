@@ -1,0 +1,65 @@
+\t (00:00:24) allegro_free_viewer 24.1 S003 (4280230) [3/6/2025] Windows SPB 64-bit Edition
+\t (00:00:24)     Journal start - Fri Apr 25 18:03:46 2025
+\t (00:00:24)         Host=LAPTOP-1SAM3GT5 User=nikhi Pid=5060 CPUs=12
+\t (00:00:24) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro_free_viewer.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: D:/#sentinel_fall/LATEST_DESIGN_SCHfILES/SENTINEL_FALL_V057/BOARD/SENTINEL_FALL_V01.brd
+\i (00:00:24) updateport PropPane
+\i (00:00:24) updateport VisibilityPane
+\i (00:00:24) ucpedit 
+\i (00:00:25) updateport VisibilityPane
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 2762.770 533.286
+\i (00:00:28) trapsize 41361
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 2737.953 549.831
+\i (00:00:28) trapsize 20680
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 2721.409 558.104
+\i (00:00:28) trapsize 10340
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2717.273 562.240
+\i (00:00:29) trapsize 20680
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2717.272 562.240
+\i (00:00:29) trapsize 41361
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2709.001 553.968
+\i (00:00:29) trapsize 82722
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1898.326 1430.820
+\i (00:00:29) trapsize 41361
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1898.326 1430.820
+\i (00:00:29) trapsize 20680
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1898.327 1426.684
+\i (00:00:30) trapsize 41361
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1890.054 1401.867
+\i (00:00:30) trapsize 82722
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 1890.054 1401.867
+\i (00:00:30) trapsize 41361
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:40) pick grid 5629.084 -161.577
+\t (00:00:40) last pick:  5629.084 -161.577
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:15:45) exit 
+\t (00:15:46)     Journal end - Fri Apr 25 18:19:07 2025

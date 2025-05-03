@@ -1,0 +1,7 @@
+\t (00:00:57) cds_root Unknown Unknown (unrelease) [unrelease] Windows SPB 64-bit Edition
+\t (00:00:57)     Journal start - Sun Apr  6 02:23:13 2025
+\t (00:00:57)         Host=LAPTOP-1SAM3GT5 User=nikhi Pid=10116 CPUs=12
+\t (00:00:57) CmdLine= cds_root.exe 
+\t (00:00:57) 
+\t (00:00:57) skill setRedsGlobalTypes()
+\t (00:00:57) skill acns_setGlobalTypes()
